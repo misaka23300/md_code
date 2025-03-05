@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"基于vuepress的网站\",\"description\":\"vuepress-theme-hope 的博客演示\",\"head\":[[\"script\",{\"defer\":true,\"src\":\"https://cloud.umami.is/script.js\",\"data-website-id\":\"d6406fbe-3b30-48e5-b521-10ca81982f58\"}]],\"locales\":{}}")
